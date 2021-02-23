@@ -1,0 +1,9 @@
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\obj\Debug\StudentsBD.csprojAssemblyReference.cache
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\obj\Debug\StudentsBD.Form1.resources
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\obj\Debug\StudentsBD.Properties.Resources.resources
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\obj\Debug\StudentsBD.csproj.GenerateResource.cache
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\bin\Debug\StudentsBD.exe.config
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\bin\Debug\StudentsBD.exe
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\bin\Debug\StudentsBD.pdb
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\obj\Debug\StudentsBD.exe
+C:\Users\danim\source\repos\StudentsBD\StudentsBD\obj\Debug\StudentsBD.pdb
